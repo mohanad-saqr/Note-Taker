@@ -1,4 +1,3 @@
-# Note Taker 
 
 This is an appliction created called Note Taker, and its meant to be used for writing and saving notes:
 
